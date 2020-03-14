@@ -19,3 +19,4 @@ root@willian-PC:/opt/kafka# bin/kafka-topics.sh --list --bootstrap-server localh
 fontes:
 https://emmanuelneri.com.br/2019/06/04/kafka-no-spring-boot/
 https://kafka.apache.org/quickstart
+
