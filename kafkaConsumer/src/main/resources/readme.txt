@@ -20,3 +20,4 @@ fontes:
 https://emmanuelneri.com.br/2019/06/04/kafka-no-spring-boot/
 https://kafka.apache.org/quickstart
 
+
